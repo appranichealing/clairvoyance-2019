@@ -1,7 +1,5 @@
 jQuery(document).ready(function ($) {
 
-  alert('Executing');
-
   var jssor_1_SlideshowTransitions = [
     {$Duration:1200,$Zoom:1,$Easing:{$Zoom:$Jease$.$InCubic,$Opacity:$Jease$.$OutQuad},$Opacity:2},
     {$Duration:1000,$Zoom:11,$SlideOut:true,$Easing:{$Zoom:$Jease$.$InExpo,$Opacity:$Jease$.$Linear},$Opacity:2},
